@@ -1,0 +1,5 @@
+{
+  "name": "Decrypted Crossword",
+  "description": "An interactive tool to help users understand the structure of cryptic crossword clues by dragging and dropping clue components into their correct categories.",
+  "requestFramePermissions": []
+}
